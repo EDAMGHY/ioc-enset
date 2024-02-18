@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d533b00-6f34-49ac-969a-a692c9f57279" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ext/DaoImplV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metier/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/damri/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pres/Pres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pres/PresAvecSpringXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pres/PresSpringAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -54,7 +46,7 @@
     "Application.PresSpringAnnotations.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/abdell/IdeaProjects/ioc-enset/src/main/java",
     "node.js.detected.package.eslint": "true",
@@ -69,6 +61,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -86,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708263895352</updated>
-      <workItem from="1708263896486" duration="888000" />
+      <workItem from="1708263896486" duration="1625000" />
     </task>
     <servers />
   </component>
